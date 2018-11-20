@@ -7,6 +7,8 @@ Simple list of possible ideas for startups in different verticals.
 
 2. A virtual doctor app that helps the user with the most basic issues like fever, headache, flu, etc. First, It is import to stress that this app would never be a replacer for the real human doctor, it could help as a first approach like the ones we get on a triage row at the hospital. To build such an app we would need a real doctor to help training a machine learning model with the possible solution for the issues, then this model could be used to get the list of actions the user needs to do to relieve the symptoms. The app could be offered for free to users from a health insurance company, for the company the benefit would be a decrease in the number of patients that use the medical services.
 
+### Security
 
+1. Based on the studies of [Paul Ekman](https://en.wikipedia.org/wiki/Paul_Ekman) we could create a face sign recognition model. The idea is to hire an expert on the Ekman's techniques and using their knowledge create a machine learning supervisioned model. The algorithm used could be the state of the art algorithm for face recognition with some adaptations to fit our needs. The expert could also help in the process of labeling a dataset of videos and movies. The yields could be offered as an API and eventually become public available as an mobile app as well.
 
 _PS_ : I didn't run an extension search on the web to check if some of those ideas are products already, if you are a creator of a product that does what I suggested here, please, don't think I am trying to get credit for your creation neither I will be any kind of competitor. The list above is just free ideas to exercise the brain.
